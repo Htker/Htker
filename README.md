@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Htker
-- 👀 I’m interested in la programmation.
-- 🌱 I’m currently learning le langage C#.
-- 💞️ I’m looking to collaborate on  des projets  basé sur le langage c#.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning the C# language.
+- 💞️ I’m looking to collaborate on projects based on the C# language.
 - 📫 How to reach me :  https://telegram.me/mhtker
 
 <!---
